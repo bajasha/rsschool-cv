@@ -41,3 +41,31 @@ A full-stack QA engineer with 5+ years of experience building test automation pr
 *May 2018 — March 2019*  
 
 ---
+## Skills  
+- **Functional Testing**: Postman, Charles, Fiddler, Dev Tools  
+- **Automation Testing**: Playwright, Selenium (Selenoid), JUnit, Pytest  
+- **Languages**: Kotlin, Python  
+- **Databases**: PostgreSQL, MySQL, MongoDB  
+- **CI/CD Tools**: Git, Docker, GitLab, TeamCity  
+- **Other Tools**: Jira, ELK Stack, Allure  
+
+---
+
+## Languages  
+- **English**: Upper-intermediate  
+- **Russian**: Native  
+
+---
+
+## Education  
+**Bachelor's Degree in Cybernetics**  
+*Southern Federal University, Taganrog*  
+*2011 — 2015*  
+
+---
+
+## Contact  
+- **Location**: Elista, Russia  
+- **Phone**: +79061766059  
+- **Email**: seretyrov@gmail.com  
+- **LinkedIn**: [linkedin.com/in/aseretyrov](http://www.linkedin.com/in/aseretyrov)
